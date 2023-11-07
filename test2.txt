@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 00F9-89D1
+
+ Directory of C:\Users\Carmen Cadar\MyFolder
+
+07/11/2023  13:48    <DIR>          .
+07/11/2023  13:48    <DIR>          ..
+07/11/2023  12:59                 0 index.txt
+07/11/2023  12:48                 8 test1.txt
+07/11/2023  13:48                 0 test2.txt
+               3 File(s)              8 bytes
+               2 Dir(s)  138,192,920,576 bytes free
